@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    background-color: red;
+    font-weight: bold;
+}
+
+
+.container{
+    align-items: center;
+    text-align: center;
+}
+#inputfield{
+   border-width: 3px; 
+   border-radius: 6px;
+   font-size: 20px;
+}
+
+#addtodo{
+    border-radius: 6px;
+    border-width: 3px; 
+    margin-left:10px;
+    font-weight: bolder;
+    font-size: 21px;
+    background-color: rgb(247, 140, 140);
+    margin-top: 1px;
+}
+#addtodo:hover{
+    color: rgb(247, 140, 140);
+    background-color: black;
+}
+
+.para-style{
+    background-color: rgb(211, 206, 206);
+    cursor:pointer;
+    padding:2px;
+    width:auto;
+    font-size: 25px;
+    text-align: center;
+}
+.para-style:hover{
+    font-size: 27px;
+}
